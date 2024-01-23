@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mark Mendoza!
 - 👀 I’m interested in creating music, fitness, video games, video editing, and software development!
-- 🌱 I’m currently learning Javascript
+- 🌱 Graduate of Lighthouse Labs Full Stack Web Development Program
 - 💞️ I’m looking to collaborate on any sort of project!
 - 📫 How to reach me marklmdoza@gmail.com
 
