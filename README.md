@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Mark Mendoza!
-- 👀 I’m interested in creating music, fitness, video games, video editing, and software development!
-- 🌱 Graduate of Lighthouse Labs Full Stack Web Development Program
-- 💞️ I’m looking to collaborate on any sort of project!
-- 📫 How to reach me marklmdoza@gmail.com
+- Hi, I’m Mark Mendoza!
+- I’m interested in software development, creating music, and fitness.
+- Graduate of Lighthouse Labs Full Stack Web Development Program
+- I’m looking to collaborate on any sort of project!
+- Email: marklmdoza@gmail.com
 
 <!---
 markmdoza/markmdoza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
