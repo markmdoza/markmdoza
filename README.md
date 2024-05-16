@@ -4,7 +4,7 @@ https://marklmendoza.netlify.app/
 
 **`Digital Craftsman (Developer/Artist/Creator)`**
 
-I'm a fresh full-stack web developer integreating my passion for music, fitness, and coding into a journey of continuous self-improvement
+I'm a fresh full-stack web developer integrating my passion for music, fitness, and coding into a journey of continuous self-improvement
 
 ---
 
